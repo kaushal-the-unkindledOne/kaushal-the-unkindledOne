@@ -1,6 +1,5 @@
 # Hi there, I'm Kaushal Kumar Dubey - aka [kaushal-the-unkindledOne] 👋 
 
-
 ## 🧑‍💻 About Me!!
 
 - 💼 Backend Developer.
@@ -11,14 +10,11 @@
 
 ### Connect with me:
 
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/catrick_bateman#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/catrick_bateman#gh-dark-mode-only)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/catrick_bateman)
 &nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/Kaushal Kumar Dubey#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/Kaushal Kumar Dubey#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kaushal-kumar-dubey-607016285)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://instagram.com/thenamelessking5#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://instagram.com/thenamelessking5#gh-dark-mode-only)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/thenamelessking5)
 
 ### Languages and Tools:
 
@@ -30,7 +26,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Deno" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
@@ -39,6 +35,11 @@
 <br />
 
 ---
+
+[twitter]: https://twitter.com/catrick_bateman
+[instagram]: https://instagram.com/thenamelessking5
+[linkedin]: https://linkedin.com/in/kaushal-kumar-dubey-607016285
+
 
 [twitter]: https://twitter.com/catrick_bateman
 [instagram]: https://instagram.com/thenamelessking5
