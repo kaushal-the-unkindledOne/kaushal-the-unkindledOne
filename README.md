@@ -1,4 +1,4 @@
-# Hi there, I'm Kaushal Kumar Dubey - aka [kaushal-the-unkindledOne] 👋 
+# Hi there, I'm Kaushal Kumar Dubey 👋 
 
 ## 🧑‍💻 About Me!!
 
